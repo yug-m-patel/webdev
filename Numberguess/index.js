@@ -6,7 +6,7 @@ function check(event){
     while (count <6){
         if (number == guess){
             document.getElementById("span-msg").textContent = "Yes its Right !!!"
-            document.getElementById("span-msg").style.color = "orange";
+            document.getElementById("span-msg").style.color = "green";
             break;
         }
         else if (number < guess){

@@ -23,5 +23,8 @@
     border: 1px solid black;
     border-radius: 5px;
     background-color: rgb(2, 71, 245);
-    ;
+    
+}
+#span-msg{
+    background-color: silver;
 }
