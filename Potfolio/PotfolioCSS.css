@@ -4,6 +4,7 @@
     text-align: center;
 }
 .pic{
+    max-width: 50%;
     height: 300px;
     width: 300px;
     border-radius: 50%;
